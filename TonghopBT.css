@@ -1,0 +1,8 @@
+body {
+    background-image:  url("ảnh3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li  {
+    font-size: 30px;
+}
